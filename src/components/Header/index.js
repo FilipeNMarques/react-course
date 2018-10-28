@@ -4,7 +4,7 @@ import './style.css'
 
 const Header = () => (
  <header id="main-header">
-  JSHunt
+  Condomínio Bezerros
  </header>
 );
 
